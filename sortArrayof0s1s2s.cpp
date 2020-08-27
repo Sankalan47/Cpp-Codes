@@ -21,7 +21,7 @@ void sort(int arr[], int size){
 
   //sorting 1s and swapping them to the middle
     else if(arr[i] == 1){
-      low++;
+      
       i++;
     }
   //sorting 2s and swapping them to the right
